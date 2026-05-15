@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		3F49AD5F2FB727390050D6ED /* IOS-Diary-Project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "IOS-Diary-Project.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F49AD822FB72BA50050D6ED /* IOS-Diary-Project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "IOS-Diary-Project.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		3F49AD612FB727390050D6ED /* IOS-Diary-Project */ = {
+		3F49AD842FB72BA50050D6ED /* IOS-Diary-Project */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = "IOS-Diary-Project";
 			sourceTree = "<group>";
@@ -19,7 +19,7 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		3F49AD5C2FB727390050D6ED /* Frameworks */ = {
+		3F49AD7F2FB72BA50050D6ED /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		3F49AD562FB727390050D6ED = {
+		3F49AD792FB72BA50050D6ED = {
 			isa = PBXGroup;
 			children = (
-				3F49AD612FB727390050D6ED /* IOS-Diary-Project */,
-				3F49AD602FB727390050D6ED /* Products */,
+				3F49AD842FB72BA50050D6ED /* IOS-Diary-Project */,
+				3F49AD832FB72BA50050D6ED /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		3F49AD602FB727390050D6ED /* Products */ = {
+		3F49AD832FB72BA50050D6ED /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3F49AD5F2FB727390050D6ED /* IOS-Diary-Project.app */,
+				3F49AD822FB72BA50050D6ED /* IOS-Diary-Project.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3F49AD5E2FB727390050D6ED /* IOS-Diary-Project */ = {
+		3F49AD812FB72BA50050D6ED /* IOS-Diary-Project */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3F49AD6A2FB7273A0050D6ED /* Build configuration list for PBXNativeTarget "IOS-Diary-Project" */;
+			buildConfigurationList = 3F49AD922FB72BA70050D6ED /* Build configuration list for PBXNativeTarget "IOS-Diary-Project" */;
 			buildPhases = (
-				3F49AD5B2FB727390050D6ED /* Sources */,
-				3F49AD5C2FB727390050D6ED /* Frameworks */,
-				3F49AD5D2FB727390050D6ED /* Resources */,
+				3F49AD7E2FB72BA50050D6ED /* Sources */,
+				3F49AD7F2FB72BA50050D6ED /* Frameworks */,
+				3F49AD802FB72BA50050D6ED /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				3F49AD612FB727390050D6ED /* IOS-Diary-Project */,
+				3F49AD842FB72BA50050D6ED /* IOS-Diary-Project */,
 			);
 			name = "IOS-Diary-Project";
 			packageProductDependencies = (
 			);
 			productName = "IOS-Diary-Project";
-			productReference = 3F49AD5F2FB727390050D6ED /* IOS-Diary-Project.app */;
+			productReference = 3F49AD822FB72BA50050D6ED /* IOS-Diary-Project.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		3F49AD572FB727390050D6ED /* Project object */ = {
+		3F49AD7A2FB72BA50050D6ED /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2620;
 				LastUpgradeCheck = 2620;
 				TargetAttributes = {
-					3F49AD5E2FB727390050D6ED = {
+					3F49AD812FB72BA50050D6ED = {
 						CreatedOnToolsVersion = 26.2;
 					};
 				};
 			};
-			buildConfigurationList = 3F49AD5A2FB727390050D6ED /* Build configuration list for PBXProject "IOS-Diary-Project" */;
+			buildConfigurationList = 3F49AD7D2FB72BA50050D6ED /* Build configuration list for PBXProject "IOS-Diary-Project" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 3F49AD562FB727390050D6ED;
+			mainGroup = 3F49AD792FB72BA50050D6ED;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 3F49AD602FB727390050D6ED /* Products */;
+			productRefGroup = 3F49AD832FB72BA50050D6ED /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3F49AD5E2FB727390050D6ED /* IOS-Diary-Project */,
+				3F49AD812FB72BA50050D6ED /* IOS-Diary-Project */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		3F49AD5D2FB727390050D6ED /* Resources */ = {
+		3F49AD802FB72BA50050D6ED /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		3F49AD5B2FB727390050D6ED /* Sources */ = {
+		3F49AD7E2FB72BA50050D6ED /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		3F49AD682FB7273A0050D6ED /* Debug */ = {
+		3F49AD902FB72BA70050D6ED /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -188,7 +188,7 @@
 			};
 			name = Debug;
 		};
-		3F49AD692FB7273A0050D6ED /* Release */ = {
+		3F49AD912FB72BA70050D6ED /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -244,7 +244,7 @@
 			};
 			name = Release;
 		};
-		3F49AD6B2FB7273A0050D6ED /* Debug */ = {
+		3F49AD932FB72BA70050D6ED /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -275,7 +275,7 @@
 			};
 			name = Debug;
 		};
-		3F49AD6C2FB7273A0050D6ED /* Release */ = {
+		3F49AD942FB72BA70050D6ED /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -309,25 +309,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3F49AD5A2FB727390050D6ED /* Build configuration list for PBXProject "IOS-Diary-Project" */ = {
+		3F49AD7D2FB72BA50050D6ED /* Build configuration list for PBXProject "IOS-Diary-Project" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3F49AD682FB7273A0050D6ED /* Debug */,
-				3F49AD692FB7273A0050D6ED /* Release */,
+				3F49AD902FB72BA70050D6ED /* Debug */,
+				3F49AD912FB72BA70050D6ED /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3F49AD6A2FB7273A0050D6ED /* Build configuration list for PBXNativeTarget "IOS-Diary-Project" */ = {
+		3F49AD922FB72BA70050D6ED /* Build configuration list for PBXNativeTarget "IOS-Diary-Project" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3F49AD6B2FB7273A0050D6ED /* Debug */,
-				3F49AD6C2FB7273A0050D6ED /* Release */,
+				3F49AD932FB72BA70050D6ED /* Debug */,
+				3F49AD942FB72BA70050D6ED /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 3F49AD572FB727390050D6ED /* Project object */;
+	rootObject = 3F49AD7A2FB72BA50050D6ED /* Project object */;
 }
